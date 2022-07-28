@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* background-color: #FCF8E8; */
+    background-color: #D9F8C4; 
+    position: relative;
+   
+}
+#chef{
+    background-color: #91be73;
+}
+#trend{
+    padding-top: 20px;
+    padding-bottom: 100px;
+    /* background-color: #FCF8E8; */
+    background-color: #91be73;
+    text-align: center;
+
+}
+
+#header button{
+    background-color: orangered;
+    margin-left: 5px;
+}
+#food{
+    color: orangered;
+    font-size: 30px;
+    margin-left: 10px;
+}
+.fa-bowl-food{
+    color:orangered;
+    font-size: 40px;
+}
+#header li a{
+    color: gray;
+}
+
+header .img{
+    background-color: transparent;
+    /* position: absolute;
+    left: 600px;
+    margin-left: 120px; */
+}
+.content{
+    /* font-family: 'Edu NSW ACT Foundation', cursive; */
+    font-family: 'Playfair Display', serif;
+}
+#delivery{
+    color: orangered;
+}
+.content .btn a{
+    color: white;
+    text-decoration: none;
+}
+.card{
+    background-color: transparent;
+    border: none;
+    text-align: center;
+    border-radius: 20px;
+}
+#trend .btn{
+    background-color: orangered;
+    color: white;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+/* .card img{
+     width: 10px;
+     /* position:absolute;
+    left: 260px;
+    bottom: 190px; */
+.card-body{
+    /* background-color:#FAD9A1; */
+    
+}
+#trend .container{
+padding-top: 70px;
+
+}
+.title{
+   padding-top: 60px;
+padding-bottom: 20px;
+text-align: center;
+color: orangered;
+/* font-family: 'Playfair Display', serif; */
+font-family: 'Ibarra Real Nova', serif;
+font-style: italic;
+}
+#collection{
+background-color: #FCF8E8;;
+}
+#collection .btn{
+    background-color: orangered;
+    color: white;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: none;
+
+
+}
+.para{
+
+    text-align: center;
+}
+#special{
+    background-color:#91C788;
+    
+}
+#special .btn{
+
+    background-color: orangered;
+    color: white;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: none;
+
+}
+#special .btn a{
+    text-decoration: none;
+    color: #ffffff;
+}
+#special h2{
+   font-family:  'Montserrat', sans-serif;;
+
+}
+#collection{
+    background-color: #D9F8C4;
+};
+
+#testimonial{
+     background-color: #D9F8C4; 
+     padding-top: 50px;
+     padding-bottom: 50px;
+}
+#testimonial h3{
+    font-family: 'Playfair Display', serif;
+}
+#testimonial p{
+    text-align: justify;
+}
+.testi{
+    background-color: #D9F8C4; 
+}
+#testimonial img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+#testimonial .col-12{
+    text-align: center;
+}
+.rupee{
+    color: orangered;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+.orrange-titel{
+   
+    color: black;
+}
+.fa-star{
+    
+}
+#trend p{
+    font-family: 'Arima', cursive;
+}
+#collection p{
+    font-family: 'Ibarra Real Nova', serif;
+}
+#collection h5{
+    font-family: 'Ibarra Real Nova', serif;
+}
+.offer-section{
+    font-size: 50px;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-style:italic ;
+    font-weight: 500;
+    margin-left: 30px;
+    color: orangered;
+}
+#footer{
+    background-color:#1B2430;
+}
+#footer li{
+    list-style-type: none;
+}
+#footer li a{
+    text-decoration: none;
+    color: white;
+}
+#footer h4{
+    color: orangered;
+}
+#footer p{
+    color: white;
+}
+#footer h5{
+    color: orangered;
+}
+#footer  .fa-brands{
+    color: white;
+    margin: 5px;
+    font-size: 25px;
+}
